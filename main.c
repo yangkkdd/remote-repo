@@ -2,5 +2,5 @@
 
 int main(int arg, char args[])
 {
-	print("hello world!");
+	print("hello yangyongjie!");
 }
