@@ -1,5 +1,7 @@
 # include <stdio.h>
 int main(int argc, char *argv[])
 {
-	print("##=##");
+	print("##yangkewen##");
+	print("##yangkewen##");
+	print("##yangkewen##");
 }

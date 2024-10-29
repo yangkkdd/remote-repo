@@ -2,7 +2,5 @@
 
 int main(int arg, char args[])
 {
-	print("hello yangyongjie");
-	print("\n===========");
-	
+	print("hello kobe ==kobe!");
 }
